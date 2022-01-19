@@ -1,6 +1,6 @@
 package aulas.Aula67;
 
-import aula67.entities.Products;
+import aulas.Aula67.entities.Products;
 
 import java.util.Scanner;
 
