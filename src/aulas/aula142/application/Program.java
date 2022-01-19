@@ -10,7 +10,6 @@ import java.util.Scanner;
 public class Program {
 
     public static void main(String[] args) throws ParseException {
-
         Scanner sc = new Scanner(System.in);
         SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 
@@ -47,7 +46,6 @@ public class Program {
                 System.out.println("Reservation: " + reservation);
             }
         }
-
         sc.close();
     }
 }
